@@ -7,7 +7,8 @@ What is a ToDo List? Simple tool to organise everything
 
 
 ## screenshot
-![image](https://user-images.githubusercontent.com/74261404/178102472-13c05dff-9709-4d93-a3d6-fa5d04752d42.png)
+![image](https://user-images.githubusercontent.com/74261404/178119495-b8e3e688-b782-4bd2-bbdb-d577cf1350f3.png)
+
 
 ## Technologies Used
 Library : jQuery
